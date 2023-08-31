@@ -22,12 +22,12 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/sviete/ha-addons
+https://github.com/sviete/ais-ha-addons
 ```
 
 ## Add-ons provided by this repository
 
-### &#10003; [Cloudflared][addon-cloudflared]
+### &#10003; [AIS Cloudflared][addon-cloudflared]
 
 ![Latest Version][cloudflared-version-shield]
 ![Supports armhf Architecture][cloudflared-armhf-shield]
