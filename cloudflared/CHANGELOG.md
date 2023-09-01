@@ -1,2 +1,4 @@
 ## What’s changed
-* No changes
+## 📚 Documentation
+
+- changes in description @araczkowski (#3)
