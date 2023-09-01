@@ -1,28 +1,29 @@
 name: AIS Cloudflared
-version: 0.1.7
+version: 0.1.8
 slug: cloudflared
-description: "Użyj tunelu AIS Cloudflare, aby zdalnie połączyć 
-  się z Home Assistant bez otwierania jakichkolwiek portów"
-url: "https://github.com/sviete/ais-ha-addon-cloudflared/"
+description: "U\u017Cyj tunelu AIS Cloudflare, aby zdalnie po\u0142\u0105czy\u0107\
+  \ si\u0119 z Home Assistant bez otwierania jakichkolwiek port\xF3w"
+url: https://github.com/sviete/ais-ha-addon-cloudflared/
 codenotary: info@ai-speaker.com
 init: false
 hassio_api: true
 hassio_role: homeassistant
 arch:
-  - aarch64
-  - amd64
-  - armhf
-  - armv7
-  - i386
+- aarch64
+- amd64
+- armhf
+- armv7
+- i386
 map:
-  - ssl:rw
-  - share:rw
-  - config:rw
+- ssl:rw
+- share:rw
+- config:rw
 options:
-  ais_subdomain: ""
-  ais_password: ""
-  log_level: "info"
+  ais_subdomain: ''
+  ais_password: ''
+  log_level: info
 schema:
   ais_subdomain: str
   ais_password: password
   log_level: list(trace|debug|info|notice|warning|error|fatal)
+image: ghcr.io/sviete/cloudflared/{arch}
