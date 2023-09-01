@@ -6,8 +6,8 @@
 
 ## About
 
-The primary goal of this repository is to provide an add-ons 
-for AI-Speaker.com users.
+The primary goal of this repository is to provide an add-ons for a
+AI-Speaker.com users.
 
 ## Installation
 
@@ -91,6 +91,8 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[gitlabci-shield]: https://gitlab.com/sviete/ais-ha-addons/badges/master/pipeline.svg
+[gitlabci]: https://gitlab.com/sviete/ais-ha-addons/pipelines
 [issue]: https://github.com/sviete/ais-ha-addons/issues
 [license-shield]: https://img.shields.io/github/license/sviete/ais-ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
