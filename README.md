@@ -36,9 +36,9 @@ https://github.com/sviete/ais-ha-addons
 ![Supports amd64 Architecture][cloudflared-amd64-shield]
 ![Supports i386 Architecture][cloudflared-i386-shield]
 
-Use a Cloudflare Tunnel to remotely connect to Home Assistant without opening any ports
+Użyj tunelu AIS Cloudflare, aby zdalnie połączyć się z Home Assistant bez otwierania jakichkolwiek portów
 
-[:books: Cloudflared add-on documentation][addon-doc-cloudflared]
+[:books: AIS Cloudflared add-on documentation][addon-doc-cloudflared]
 
 ## Releases
 
@@ -58,7 +58,7 @@ Open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Cloudflared][cloudflared-issue]
+- [Open an issue for the add-on: AIS Cloudflared][cloudflared-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -86,20 +86,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/tree/main
+[addon-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/tree/v0.1.7
+[addon-doc-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/blob/v0.1.7/README.md
 [cloudflared-issue]: https://github.com/sviete/ais-ha-addon-cloudflared/issues
-[issue]: https://github.com/sviete/ais-ha-addons/issues
-
-[cloudflared-version-shield]: https://img.shields.io/badge/version-v4.2.4-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-v0.1.7-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-
-[license-shield]: https://img.shields.io/github/license/brenner-tobias/ha-addons.svg
+[gitlabci-shield]: https://gitlab.com/sviete/ais-ha-addons/badges/master/pipeline.svg
+[gitlabci]: https://gitlab.com/sviete/ais-ha-addons/pipelines
+[issue]: https://github.com/sviete/ais-ha-addons/issues
+[license-shield]: https://img.shields.io/github/license/sviete/ais-ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
-
-[addon-doc-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/blob/main/README.md
