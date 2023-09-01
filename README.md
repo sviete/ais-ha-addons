@@ -6,12 +6,8 @@
 
 ## About
 
-Home Assistant allows anyone to create add-on repositories to share their
-add-ons for Home Assistant easily. This repository is one of those repositories,
-providing extra Home Assistant add-ons for your installation.
-
-The primary goal of this repository is to provide an add-on to use Cloudflared.
-Additional add-ons might follow in the future.
+The primary goal of this repository is to provide an add-ons 
+for AI-Speaker.com users.
 
 ## Installation
 
@@ -95,8 +91,6 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[gitlabci-shield]: https://gitlab.com/sviete/ais-ha-addons/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/sviete/ais-ha-addons/pipelines
 [issue]: https://github.com/sviete/ais-ha-addons/issues
 [license-shield]: https://img.shields.io/github/license/sviete/ais-ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
