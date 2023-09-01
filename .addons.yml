@@ -4,4 +4,4 @@ addons:
   cloudflared:
     repository: sviete/ais-ha-addon-cloudflared
     target: cloudflared
-    image: ghcr.io/sviete/ais-ha-addon-cloudflared/{arch}
+    image: ghcr.io/sviete/cloudflared/{arch}

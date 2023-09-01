@@ -86,9 +86,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/sviete/ha-addon-cloudflared/tree/main
-[cloudflared-issue]: https://github.com/sviete/ha-addon-cloudflared/issues
-[issue]: https://github.com/sviete/ha-addons/issues
+[addon-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/tree/main
+[cloudflared-issue]: https://github.com/sviete/ais-ha-addon-cloudflared/issues
+[issue]: https://github.com/sviete/ais-ha-addons/issues
 
 [cloudflared-version-shield]: https://img.shields.io/badge/version-v4.2.4-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -102,4 +102,4 @@ SOFTWARE.
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
 
-[addon-doc-cloudflared]: https://github.com/sviete/ha-addon-cloudflared/blob/main/README.md
+[addon-doc-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/blob/main/README.md
