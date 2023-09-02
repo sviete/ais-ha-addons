@@ -1,4 +1,5 @@
 ## What’s changed
 ## 📚 Documentation
 
-- changes in description @araczkowski (#3)
+- clear @araczkowski (#4)
+- readme in english @araczkowski (#5)

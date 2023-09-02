@@ -1,5 +1,5 @@
 name: AIS Cloudflared
-version: 0.1.10
+version: 0.1.11
 slug: cloudflared
 description: "U\u017Cyj tunelu AIS Cloudflare, aby zdalnie po\u0142\u0105czy\u0107\
   \ si\u0119 z Home Assistant bez otwierania jakichkolwiek port\xF3w"
