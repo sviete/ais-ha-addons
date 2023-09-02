@@ -7,12 +7,11 @@
 ## About
 
 The primary goal of this repository is to provide an add-ons for a
-AI-Speaker.com users.
+AI-Speaker.com / Home Assistant users.
 
 ## Installation
 
-Adding this add-ons repository to your Home Assistant instance is
-pretty straightforward. In the Home Assistant add-on store,
+In the Home Assistant add-on store,
 a possibility to add a repository is provided.
 
 Use the following URL to add this repository:
@@ -36,27 +35,12 @@ Użyj tunelu AIS Cloudflare, aby zdalnie połączyć się z Home Assistant bez o
 
 [:books: AIS Cloudflared add-on documentation][addon-doc-cloudflared]
 
-## Releases
-
-Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
-based on the following:
-
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
 Got questions?
 
-Open an issue here on GitHub. Note, we use a separate
-GitHub repository for each add-on. Please ensure you are creating the issue
-on the correct GitHub repository matching the add-on.
-
-- [Open an issue for the add-on: AIS Cloudflared][cloudflared-issue]
-
-For a general repository issue or add-on ideas [open an issue here][issue]
+Go to our forum at https://ai-speaker.discourse.group/
 
 ## License
 
