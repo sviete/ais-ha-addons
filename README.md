@@ -31,7 +31,7 @@ https://github.com/sviete/ais-ha-addons
 ![Supports amd64 Architecture][cloudflared-amd64-shield]
 ![Supports i386 Architecture][cloudflared-i386-shield]
 
-Użyj tunelu AIS Cloudflare, aby zdalnie połączyć się z Home Assistant bez otwierania jakichkolwiek portów
+Use Cloudflare's AIS Tunnel to remotely connect to Home Assistant without opening any ports
 
 [:books: AIS Cloudflared add-on documentation][addon-doc-cloudflared]
 
