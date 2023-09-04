@@ -1,8 +1,8 @@
 name: AIS Cloudflared
-version: 0.1.11
+version: 0.1.12
 slug: cloudflared
-description: "U\u017Cyj tunelu AIS Cloudflare, aby zdalnie po\u0142\u0105czy\u0107\
-  \ si\u0119 z Home Assistant bez otwierania jakichkolwiek port\xF3w"
+description: Use Cloudflare's AIS Tunnel to remotely connect to Home Assistant without
+  opening any ports
 url: https://github.com/sviete/ais-ha-addon-cloudflared/
 codenotary: info@ai-speaker.com
 init: false

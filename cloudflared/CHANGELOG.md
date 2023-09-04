@@ -1,5 +1,7 @@
 ## What’s changed
-## 📚 Documentation
+- docs in english @araczkowski (#6)
+- Cloudflared 2023.8.2 @araczkowski (#7)
 
-- clear @araczkowski (#4)
-- readme in english @araczkowski (#5)
+## 🚀 Enhancements
+
+- ais logo in console @araczkowski (#8)

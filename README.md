@@ -66,10 +66,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/tree/v0.1.11
-[addon-doc-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/blob/v0.1.11/README.md
+[addon-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/tree/v0.1.12
+[addon-doc-cloudflared]: https://github.com/sviete/ais-ha-addon-cloudflared/blob/v0.1.12/README.md
 [cloudflared-issue]: https://github.com/sviete/ais-ha-addon-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-v0.1.11-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-v0.1.12-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
