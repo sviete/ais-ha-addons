@@ -1,7 +1,13 @@
 ## What’s changed
-- docs in english @araczkowski (#6)
-- Cloudflared 2023.8.2 @araczkowski (#7)
+## 🐛 Bug fixes
 
-## 🚀 Enhancements
+- Update deploy.yaml @araczkowski (#14)
 
-- ais logo in console @araczkowski (#8)
+## 🧰 Maintenance
+
+- Update base images @araczkowski (#13)
+
+## ⬆️ Dependency updates
+
+- Update cloudflared to v2023.10.0 @araczkowski (#10)
+- Update base images @araczkowski (#13)

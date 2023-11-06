@@ -1,5 +1,5 @@
 name: AIS Cloudflared
-version: 0.1.12
+version: 0.1.13
 slug: cloudflared
 description: Use Cloudflare's AIS Tunnel to remotely connect to Home Assistant without
   opening any ports
