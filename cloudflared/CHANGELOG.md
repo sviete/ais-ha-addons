@@ -1,2 +1,1 @@
-## What’s changed
-enhancement - cloudflared v2024.10.0
+update Cloudflared to 2025.8.1 @araczkowski (https://github.com/sviete/ais-ha-addon-cloudflared/pull/23)
